@@ -1,3 +1,2 @@
 #!/bin/bah
-file -C -m school
-file -m school.mgc SCHOOL *
+file --mine-encoding 0 -f School -m SCHOOL School*
