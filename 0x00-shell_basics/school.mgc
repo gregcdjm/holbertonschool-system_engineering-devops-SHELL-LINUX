@@ -1,2 +1,2 @@
 #!/bin/bash
-file -bcCdEhikLlNnprsSvzZ0 -C -m SCHOOL -f School 
+file -C -m SCHOOL * 
