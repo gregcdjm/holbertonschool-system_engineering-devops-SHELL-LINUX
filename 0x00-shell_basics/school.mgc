@@ -1,2 +1,2 @@
 #!/bin/bah
-file --mine-encoding 0 -f School -m SCHOOL School*
+file --mine-encoding 0 -f School -m SCHOOL Schoo l*
