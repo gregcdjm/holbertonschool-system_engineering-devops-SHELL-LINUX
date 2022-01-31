@@ -1,2 +1,2 @@
 #!/bin/bash
-less -n11 etc/passwd
+less -n10 etc/passwd
