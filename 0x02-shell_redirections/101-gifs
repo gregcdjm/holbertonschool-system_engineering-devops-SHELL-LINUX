@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.gif" | cut -c 5- | rev | sort --buffer-size=1
+find . -type f -name "*.gif" | cut -c 5- | rev | sort --buffer-size=0
