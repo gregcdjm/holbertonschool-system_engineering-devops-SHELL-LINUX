@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -name [a-zA-Z]* /etc/ssh/sshd_config
+find -type f -name '^[a-zA-Z]' /etc/ssh/sshd_config
