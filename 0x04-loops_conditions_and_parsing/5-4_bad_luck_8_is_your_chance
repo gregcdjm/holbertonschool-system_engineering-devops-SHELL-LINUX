@@ -2,12 +2,12 @@
 # best school x 10
 
 i=0
-while ((i<11))
+while ((i<10))
 do
-    if ((i == 4))
+    if ((i == 3))
     then
 	echo "bad luck"
-    elif ((i == 8))
+    elif ((i == 7))
     then
 	echo "good luck"
     else
