@@ -2,7 +2,7 @@
 # best school x 10
 
 i=0
-while ((i<10))
+while ((i<11))
 do
     if ((i == 4))
     then
