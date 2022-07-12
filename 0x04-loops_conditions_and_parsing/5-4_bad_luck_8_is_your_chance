@@ -7,8 +7,7 @@ do
     if ((i == 4))
     then
 	echo "bad luck"
-    fi
-    if ((i == 8))
+    elif ((i == 8))
     then
 	echo "good luck"
     fi
