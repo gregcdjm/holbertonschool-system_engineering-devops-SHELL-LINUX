@@ -2,7 +2,7 @@
 # best school x 10
 
 i=0
-until ((i<10))
+until ((i > 9))
 do
     echo "Best School"
     ((i++))
