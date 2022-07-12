@@ -3,6 +3,7 @@
 
 i=1
 h=1
+echo "Hour: 0"
 while ((i!=60))
 do
     echo $i
@@ -13,7 +14,7 @@ do
     elif (( i == 60))
     then
 	i=1
-	echo -n "Hour : "
+	echo -n "Hour: "
 	echo $h
 	((h++))
     fi
