@@ -1,1 +1,17 @@
 #!/usr/bin/env bash
+# best school x 10
+
+i=0
+while ((i<10))
+do
+    if ((i == 4))
+    then
+	echo "bad luck"
+    fi
+    if ((i == 8))
+    then
+	echo "good luck"
+    fi
+    echo "Best School"
+    ((i++))
+done
