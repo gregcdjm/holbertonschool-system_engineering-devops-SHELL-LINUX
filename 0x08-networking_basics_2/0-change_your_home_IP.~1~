@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-# script to create server .
-cp /etc/hosts ~/hosts.new
-echo -e "127.0.0.2 \t localhost" > ~/hosts.new
-echo -e "8.8.8.8 \t facebook.com" >> ~/hosts.new
-cp -f ~/hosts.new /etc/hosts
