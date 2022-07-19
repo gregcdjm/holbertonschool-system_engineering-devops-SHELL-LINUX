@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
 # script to create server .
-cp /etc/hosts ~/hosts.new
-printf '127.0.0.2\tlocalhost\n' > ~/hosts.new
-printf '8.8.8.8\tfacebook.com\n' >> ~/hosts.new
-cp -f ~/hosts.new /etc/hosts
+printf '127.0.0.2\tlocalhost\n' > ~/hosts
+printf '8.8.8.8\tfacebook.com\n' >> ~/hosts
