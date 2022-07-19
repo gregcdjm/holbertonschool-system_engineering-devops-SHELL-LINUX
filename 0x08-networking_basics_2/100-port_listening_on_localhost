@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script to create server .
+nc localhost 98
+nc -l localhost 98
