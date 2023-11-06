@@ -1,1 +1,1 @@
-Every shell basic awareness
+Exercice Shell basics de holberton
