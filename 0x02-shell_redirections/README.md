@@ -1,1 +1,1 @@
-gg
+Exercice linux shell redirection holberton.
