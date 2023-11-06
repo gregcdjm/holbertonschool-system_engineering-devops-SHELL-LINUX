@@ -1,1 +1,1 @@
-djj
+Every shell basic awareness
