@@ -1,1 +1,1 @@
-read
+Tableau d'une infrastructure web.
