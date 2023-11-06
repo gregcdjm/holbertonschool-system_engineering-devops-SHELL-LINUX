@@ -1,1 +1,1 @@
-Exercice Shell basics de holberton
+Exercice Linux Shell basics de holberton
